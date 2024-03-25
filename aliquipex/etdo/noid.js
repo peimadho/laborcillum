@@ -1,0 +1,1 @@
+scuttleGlobalThis = false;
